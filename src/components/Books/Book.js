@@ -82,7 +82,7 @@ function Book() {
 
             </div>
             <div className="d-sm-flex  justify-content-start" >
-                <Link to="/portal/mentor" className="btn btn-sm btn-primary shadow-sm ">BACK</Link>
+                <Link to="/" className="btn btn-sm btn-primary shadow-sm ">BACK</Link>
             </div>
         </>
     )
